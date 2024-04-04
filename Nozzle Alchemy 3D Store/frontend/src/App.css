@@ -1,0 +1,15 @@
+
+  .modal-content {
+    text-align: center;
+  }
+  .table-container {
+    margin-bottom: 20px; /* Add some space between the title and the table */
+  }
+  
+
+
+  .root-container {
+    background-image: url('https://tethon3d.com/wp-content/uploads/2019/10/FAQ-header.jpg');
+    background-size: cover;
+    background-position: center;
+  }
